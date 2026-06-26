@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\usermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\usermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\usermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\usermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\conversationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\conversationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\conversationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\desktop\\cyberbot gui\\cyberbot gui\\cybersecurityawarenessbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\github\\cyberbot.gui\\cyberbot gui\\cyberbot gui\\cybersecurityawarenessbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E1E1F4D7-5C54-1891-6C6B-5EEDC530F570}|Cyberbot gui\\CyberSecurityAwarenessBot.csproj|solutionrelative:cyberbot gui\\cybersecurityawarenessbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -78,79 +78,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\TaskManager.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\TaskManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\TaskManager.cs",
-              "RelativeToolTip": "Cyberbot gui\\TaskManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\DatabaseManager.cs",
+              "RelativeToolTip": "Cyberbot gui\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T06:25:39.355Z",
+              "WhenOpened": "2026-06-24T07:44:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLPProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\NLPProcessor.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\NLPProcessor.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\NLPProcessor.cs",
+              "RelativeToolTip": "Cyberbot gui\\NLPProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T06:28:47.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\QuizQuestion.cs",
+              "RelativeToolTip": "Cyberbot gui\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T06:26:22.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\QuizManager.cs",
+              "RelativeToolTip": "Cyberbot gui\\QuizManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T06:26:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\SoundManager.cs",
+              "RelativeToolTip": "Cyberbot gui\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:43:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ResponseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\ResponseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\ResponseManager.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\ResponseManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\ResponseManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\ResponseManager.cs",
               "RelativeToolTip": "Cyberbot gui\\ResponseManager.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T10:39:57.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserMemory.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\UserMemory.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\UserMemory.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\UserMemory.cs",
-              "RelativeToolTip": "Cyberbot gui\\UserMemory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\TaskManager.cs",
+              "RelativeToolTip": "Cyberbot gui\\TaskManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:40:51.81Z",
+              "WhenOpened": "2026-06-24T06:25:39.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml.cs",
               "RelativeToolTip": "Cyberbot gui\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAPkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T10:35:25.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\TaskItem.cs",
-              "RelativeToolTip": "Cyberbot gui\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T06:24:54.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Cyberbot gui\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\MainWindow.xaml",
               "RelativeToolTip": "Cyberbot gui\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-28T10:35:38.055Z",
@@ -158,23 +198,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SoundManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\SoundManager.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\SoundManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\SoundManager.cs",
-              "RelativeToolTip": "Cyberbot gui\\SoundManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\TaskItem.cs",
+              "RelativeToolTip": "Cyberbot gui\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:43:03.36Z"
+              "WhenOpened": "2026-06-24T06:24:54.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "UserMemory.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\UserMemory.cs",
+              "RelativeDocumentMoniker": "Cyberbot gui\\UserMemory.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\UserMemory.cs",
+              "RelativeToolTip": "Cyberbot gui\\UserMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:40:51.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SentimentAnalyzer.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\SentimentAnalyzer.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\SentimentAnalyzer.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\SentimentAnalyzer.cs",
               "RelativeToolTip": "Cyberbot gui\\SentimentAnalyzer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,47 +234,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuizQuestion.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\QuizQuestion.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\QuizQuestion.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\QuizQuestion.cs",
-              "RelativeToolTip": "Cyberbot gui\\QuizQuestion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T06:26:22.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "QuizManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\QuizManager.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\QuizManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\QuizManager.cs",
-              "RelativeToolTip": "Cyberbot gui\\QuizManager.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAswJsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T06:26:53.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NLPProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\NLPProcessor.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\NLPProcessor.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\NLPProcessor.cs",
-              "RelativeToolTip": "Cyberbot gui\\NLPProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T06:28:47.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Delegates.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\Delegates.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\Delegates.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\Delegates.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\Delegates.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\Delegates.cs",
               "RelativeToolTip": "Cyberbot gui\\Delegates.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,23 +246,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "Cyberbot gui\\DatabaseManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\DatabaseManager.cs",
-              "RelativeToolTip": "Cyberbot gui\\DatabaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T07:44:15.165Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "CyberBot.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\CyberBot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\CyberBot.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\CyberBot.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\CyberBot.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\CyberBot.cs",
               "RelativeToolTip": "Cyberbot gui\\CyberBot.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,9 +260,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ConversationManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\ConversationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\ConversationManager.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\ConversationManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\ConversationManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\ConversationManager.cs",
               "RelativeToolTip": "Cyberbot gui\\ConversationManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ActivityLog.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\ActivityLog.cs",
               "RelativeDocumentMoniker": "Cyberbot gui\\ActivityLog.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\ActivityLog.cs",
               "RelativeToolTip": "Cyberbot gui\\ActivityLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,9 +284,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "CyberSecurityAwarenessBot.csproj",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
               "RelativeDocumentMoniker": "Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
               "RelativeToolTip": "Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

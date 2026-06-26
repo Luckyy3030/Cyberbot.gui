@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tItg/KiVR28=",
+  "dgSpecHash": "Qg83O4xd7kk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\Cyberbot gui\\Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\GitHub\\Cyberbot.gui\\Cyberbot gui\\Cyberbot gui\\CyberSecurityAwarenessBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
